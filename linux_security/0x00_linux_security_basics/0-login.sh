@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo last -F -n 5 -i | grep "$1"
+sudo last -F -5 "$1"
