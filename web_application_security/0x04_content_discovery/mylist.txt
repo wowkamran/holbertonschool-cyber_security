@@ -1,0 +1,11 @@
+flag.txt
+flag
+secret.txt
+secret
+config
+conf
+backup
+password.txt
+pxelinux.0
+vmlinuz
+boot
